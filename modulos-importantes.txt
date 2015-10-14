@@ -1,0 +1,3 @@
+ngCordova - http://ngcordova.com/
+Angular-cache - https://jmdobry.github.io/angular-cache/
+angular-google-maps - http://angular-ui.github.io/angular-google-maps/#!/

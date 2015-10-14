@@ -1,0 +1,11 @@
+<ion-view ng-controller="standingsCtrl as vm">
+  <ion-content class="has-header">
+    <h1>Standings</h1>
+    <div class="list">
+      <a class="item item-icon-right" ng-repeat="standing in vm.standings">
+        {{ standing.teamName }} ({{ standing.wins }} - {{ standing.losses }})
+        <i class="icon icon-chevron-right"></i>
+      </a>
+    </div>
+  </ion-content>
+</ion-view>

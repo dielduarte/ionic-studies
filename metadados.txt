@@ -1,0 +1,4 @@
+DAdos de configuraçao do ionic ficam no arquivo config.xml, nele e possivel alterar coisas como nome do aplicativo, autor, descriçao.
+
+http://makeappicon.com/  // link para gerar icones para todas as plataformas
+Para alterar os icones basta ir na pasta platforms/android/res
